@@ -29,4 +29,4 @@ regdump is licensed under the GPLv3+.
 [bdj]: https://github.com/john-tornblom/bdj-sdk
 [webkit]: https://github.com/Cryptogenic/PS5-IPV6-Kernel-Exploit
 [sdk]: https://github.com/ps5-payload-dev/sdk
-[issues]: https://github.com/ps5-payload-dev/websrv/issues/new
+[issues]: https://github.com/ps5-payload-dev/regdump/issues/new
